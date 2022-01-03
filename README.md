@@ -22,10 +22,10 @@
 
 <ul>
   <li>
-    CRM - фронт для биллинг панели
+    Billing-Panel - фронт для биллинг панели
     <a href=#>Демо</a>
     ||
-    <a href=#>Код</a>
+    <a href=https://github.com/cptnkerim/Billing-Panel>Код</a>
   </li>
   <li>
     AdoptMe - приложение поиска животных
