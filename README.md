@@ -27,10 +27,4 @@
     ||
     <a href=https://github.com/cptnkerim/Billing-Panel>Код</a>
   </li>
-  <li>
-    AdoptMe - приложение поиска животных
-    <a href=#>Демо</a>
-    ||
-    <a href=#>Код</a>
-  </li>
 </ul>
