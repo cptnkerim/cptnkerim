@@ -1,6 +1,6 @@
 ### Керим
 
-<h3>Front-End - разработчик, в будущем - FullStack Web -разработчик.</h2>
+<h3>Front-End - разработчик.</h2>
   
 <h3>Языки и инструменты:</h2>
 <div style='width: 300px'>
@@ -15,16 +15,4 @@
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
 </div>
-
-<h4>Примеры кода:</h4>
-
-<ul>
-  <li>
-    Billing-Panel - фронт для биллинг панели
-    <a href=#>Демо</a>
-    ||
-    <a href=https://github.com/cptnkerim/Billing-Panel>Код</a>
-  </li>
-</ul>
